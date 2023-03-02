@@ -1,6 +1,10 @@
+-----
+
 <div>
   <img align="center" height="300" width="100%" src="https://github.com/RodrigoFreitas-L/RodrigoFreitas-L/blob/main/yay.gif?raw=true"/>
 </div>
+
+-----
 
 ### Olá eu sou o Rodrigo, seja bem vindo(a) ao meu perfil do GitHub! 😊
 
