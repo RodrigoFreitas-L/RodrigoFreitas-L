@@ -50,5 +50,3 @@
       <a href = "mailto:kdigo.chr@gmail.com"><img src="https://img.shields.io/badge/Gmail-36454F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/rodrigofreitas-l/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/222693513802940417?idleMessage=Probably%20coding%20or%20playing%20something)](https://discord.com/users/222693513802940417)
